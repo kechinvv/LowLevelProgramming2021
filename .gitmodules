@@ -1,0 +1,6 @@
+[submodule "edsacIO1PyHelp"]
+	path = edsacIO1PyHelp
+	url = https://github.com/kechinvv/edsacIO1PyHelp
+[submodule "edsacIO2PyHelp"]
+	path = edsacIO2PyHelp
+	url = https://github.com/kechinvv/edsacIO2PyHelp
