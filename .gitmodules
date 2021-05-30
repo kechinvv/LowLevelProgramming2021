@@ -4,3 +4,6 @@
 [submodule "edsacIO2PyHelp"]
 	path = edsacIO2PyHelp
 	url = https://github.com/kechinvv/edsacIO2PyHelp
+[submodule "BinHeap"]
+	path = BinHeap
+	url = https://github.com/kechinvv/BinHeap
